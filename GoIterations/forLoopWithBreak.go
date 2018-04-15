@@ -1,8 +1,8 @@
-package main
+package GoIterations
 
 import "fmt"
 
-func main() {
+func ForLoopmain() {
 	i := 0
 	for {
 		i++
