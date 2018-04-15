@@ -13,4 +13,6 @@ func main() {
 	GoIterations.GoOnTypes(t.Greeting)
 	GoIterations.GoOnTypes(t.Name)
 
+	GoIterations.GoIfStatement()
+
 }
